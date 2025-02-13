@@ -1,0 +1,8 @@
+# deps
+node_modules/
+
+.env
+
+# pgdata
+database/pg-data/
+database/pgadmin-data/
